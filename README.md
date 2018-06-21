@@ -15,5 +15,6 @@
 3. Simply place the module under the `modules` folder of your AzerothCore source folder.
 4. Re-run cmake and launch a clean build of AzerothCore
 5. Done :)
+6. Sql - world - spellregulator.sql -> DB world
 
 AzerothCore: [repository](https://github.com/azerothcore) - [website](http://azerothcore.org/) - [discord chat community](https://discord.gg/PaqQRkd)
