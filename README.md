@@ -7,7 +7,7 @@
 
 ### Spell Regulator Module currently requires:
 - Warning! for the module to work make the changes of the link below
-- For work need new hooks https://gist.github.com/vhipercode/c3debb0dae1fa6f2591fddacbe311747
+- For work need new hooks https://gist.github.com/vhiperdev/c3debb0dae1fa6f2591fddacbe311747
 
 ### How to install
 1. git clone https://github.com/vhiperdev/mod-spellregulator.git
