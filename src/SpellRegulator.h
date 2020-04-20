@@ -38,7 +38,7 @@ public:
 			RegulatorContainer[fields[0].GetUInt32()] = fields[1].GetFloat();
 			++count;
 		} while (result->NextRow());
-		sLog->outString("server.loading", "Loaded %u regulated spells in %u ms", count, GetMSTimeDiffToNow(msTime));
+		sLog->outString("Loaded %d regulated spells in %d ms", count, GetMSTimeDiffToNow(msTime));
 	}
 
 private:
